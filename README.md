@@ -34,11 +34,6 @@ Drone SDK for navigation and image capture
 
 Installation
 
-Clone this repository:
-
-git clone https://github.com/yourusername/herbal-leaf-classification.git
-cd herbal-leaf-classification
-
 Install the required dependencies:
 
 pip install -r requirements.txt
